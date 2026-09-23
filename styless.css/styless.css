@@ -1,0 +1,75 @@
+body {
+    background-image: url(https://img.magnific.com/vetores-gratis/respingos-de-sangue-vermelho-em-um-fundo-preto-ideal-para-o-halloween_1048-19440.jpg?semt=ais_hybrid&w=740&q=80);
+}
+
+
+.title {
+    background-color: rgb(255, 255, 255);
+  margin: 0 auto;
+    padding: 0.5%;
+    container: 30%;
+    border-radius: 10%;
+    width: 30%;
+    text-align: center;
+}
+
+
+.jg {
+    background-color: rgb(129, 75, 75);
+  margin: 0 auto;
+    container: 30%;
+    border-radius: 10%;
+    width: 30%;
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+}
+
+
+.di {
+    background-color: rgb(190, 165, 165);
+    border-radius: 2%;
+}
+
+
+.castle, .call {
+    margin-top:3%;
+
+
+}
+.ca {
+    display: inline-block;
+    margin: 0 auto;
+}
+.jogo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    gap: 30px;              
+    margin-top: 20px;
+}
+.c {
+    text-align: center;
+    color: rgb(56, 48, 48);
+}
+.titl{
+    background-color: rgb(129, 75, 75);
+  margin: 0 auto;
+    container: 30%;
+    width: 30%;
+    text-align: center;
+    color: white;
+    border-radius: 10%;
+    font-size: medium;
+}
+.btn{
+     background-color: rgb(129, 75, 75);
+  margin: 0 auto;
+    container: 30%;
+    width: 30%;
+    text-align: center;
+    color: white;
+    border-radius: 10%;
+    font-size: medium;
+    
+}
